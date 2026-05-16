@@ -1,12 +1,12 @@
 # SignBridge Videos
 
-ASL sign language video clips hosted on GitHub, served via jsDelivr CDN.
+ASL sign language video clips for the [SignBridge](https://github.com/Shereen777/signbridge-frontend) project.
 
-These videos are from public ASL educational resources and are used by [SignBridge](https://signbridge-b4347.web.app) to display sign language.
+These are public educational ASL sign clips originally sourced from [SignBSL.com](https://www.signbsl.com/) ([StartASL](https://www.startasl.com/) educational materials).
 
-## CDN URL
-`https://cdn.jsdelivr.net/gh/Shereen777/signbridge-videos@main/{word}.mp4`
+Served via jsDelivr CDN:
+```
+https://cdn.jsdelivr.net/gh/Shereen777/signbridge-videos@main/videos/{word}.mp4
+```
 
-## Credit
-Source: SignBSL.com / StartASL.com (public educational ASL resources)
-
+Total: 49 videos, ~7.7 MB
